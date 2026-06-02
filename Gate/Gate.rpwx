@@ -28,22 +28,54 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">666</m_nRight>
+								<m_nRight type="a">581</m_nRight>
 								<m_nBottom type="a">849</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
-								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hm2Class type="a">IMSC</_hm2Class>
 								<_hfilename type="a">.\Gate_rpy\Default.sbsx</_hfilename>
 								<_hsubsystem type="a">Default</_hsubsystem>
-								<_hname type="a">Functions</_hname>
-								<_hid type="a">GUID 13e236f8-a4ed-4bd6-8a77-649d5af3e463</_hid>
+								<_hname type="a">Closing in Default</_hname>
+								<_hid type="a">GUID ea100a37-1e66-4d7f-8041-976cb90b4246</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">48 110 </_UpLeft>
-						<_DownRight type="a">688 911 </_DownRight>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">555 801 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">581</m_nRight>
+								<m_nBottom type="a">849</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gate_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hname type="a">Collision detection in Default</_hname>
+								<_hid type="a">GUID 40d81cce-bd34-4799-8b5b-cb3cf1144786</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">10 0 </_UpLeft>
+						<_DownRight type="a">565 801 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -60,7 +92,136 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">666</m_nRight>
+								<m_nRight type="a">581</m_nRight>
+								<m_nBottom type="a">849</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Gate_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hname type="a">Functions</_hname>
+								<_hid type="a">GUID 13e236f8-a4ed-4bd6-8a77-649d5af3e463</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">151 110 </_UpLeft>
+						<_DownRight type="a">706 911 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">581</m_nRight>
+								<m_nBottom type="a">849</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gate_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hname type="a">Movement in Default</_hname>
+								<_hid type="a">GUID 1e34aa90-2f04-46ec-93ee-2256a136e00a</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 80 </_UpLeft>
+						<_DownRight type="a">555 881 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">581</m_nRight>
+								<m_nBottom type="a">849</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gate_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hname type="a">Opening in Default</_hname>
+								<_hid type="a">GUID 454fdd0c-3b19-4481-aa8c-77dc3e8ef42b</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">555 801 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">581</m_nRight>
+								<m_nBottom type="a">849</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gate_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Receiving signal from RC</_hclass>
+								<_hname type="a">sequencediagram_0</_hname>
+								<_hid type="a">GUID 691d41cb-7562-4497-bb35-d5e1cf6af9b9</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">43 50 </_UpLeft>
+						<_DownRight type="a">598 851 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">581</m_nRight>
 								<m_nBottom type="a">849</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -74,9 +235,41 @@
 								<_hid type="a">GUID d60692a2-87e6-4881-a28f-a64b1f5f7a1a</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">14 443 </_UpLeft>
-						<_DownRight type="a">654 1244 </_DownRight>
-						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<_UpLeft type="a">0 443 </_UpLeft>
+						<_DownRight type="a">555 1244 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">581</m_nRight>
+								<m_nBottom type="a">849</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Gate_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hname type="a">Stopping in Default</_hname>
+								<_hid type="a">GUID 4dfbbad5-49e3-4543-ac1e-3d6b100d9153</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">555 801 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
