@@ -1,0 +1,10 @@
+^C:\USERS\ALEX\ONEDRIVE\DOCUMENTS\VS_CODE_PROJECTS\UNIT_TESTING\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\B96EE9BEC77FB32DCAE645DF52EB237C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/alex/OneDrive/Documents/VS_code_projects/Unit_testing/build/_deps/googletest-subbuild -BC:/Users/alex/OneDrive/Documents/VS_code_projects/Unit_testing/build/_deps/googletest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/alex/OneDrive/Documents/VS_code_projects/Unit_testing/build/_deps/googletest-subbuild/googletest-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
