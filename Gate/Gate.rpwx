@@ -28,7 +28,39 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">572</m_nRight>
+								<m_nRight type="a">666</m_nRight>
+								<m_nBottom type="a">849</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Gate_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hname type="a">Functions</_hname>
+								<_hid type="a">GUID 13e236f8-a4ed-4bd6-8a77-649d5af3e463</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">48 110 </_UpLeft>
+						<_DownRight type="a">688 911 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">666</m_nRight>
 								<m_nBottom type="a">849</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -42,15 +74,15 @@
 								<_hid type="a">GUID d60692a2-87e6-4881-a28f-a64b1f5f7a1a</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 80 </_UpLeft>
-						<_DownRight type="a">546 881 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">1</m_bIsActiveView>
+						<_UpLeft type="a">14 443 </_UpLeft>
+						<_DownRight type="a">654 1244 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\ProgramData\IBM\Rhapsody\10.0.1x64\Gate\Gate</_fullName>
+			<_fullName type="a">C:\Users\LabPOIO-90\Unit_testing\Gate\Gate</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
