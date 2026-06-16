@@ -12,10 +12,10 @@
 			<_id type="a">GUID 963d0682-afe7-4d22-a662-184b4e672c46</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Default</_name>
-			<_modifiedTimeWeak type="a">6.9.2026::14:20:44</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.9.2026::14:35:24</_modifiedTime>
-			<_lastID type="a">100</_lastID>
-			<weakCGTime type="a">6.9.2026::14:20:44</weakCGTime>
+			<_modifiedTimeWeak type="a">6.16.2026::11:56:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.16.2026::11:56:35</_modifiedTime>
+			<_lastID type="a">101</_lastID>
+			<weakCGTime type="a">6.16.2026::11:56:35</weakCGTime>
 			<strongCGTime type="a">6.9.2026::12:38:22</strongCGTime>
 			<_defaultComposite type="s">GUID 76e7d19b-37f6-4984-9e16-6291034a88d1</_defaultComposite>
 			<_eventsBaseID type="a">18601</_eventsBaseID>
@@ -41,6 +41,7 @@
 				<value>GUID 1e34aa90-2f04-46ec-93ee-2256a136e00a</value>
 				<value>GUID 40d81cce-bd34-4799-8b5b-cb3cf1144786</value>
 				<value>GUID 12d9a08b-231c-4027-b559-771884d8eaf0</value>
+				<value>GUID 64b0a405-98a8-455f-8459-df6c707bfc9d</value>
 				<value>GUID 76e7d19b-37f6-4984-9e16-6291034a88d1</value>
 				<value>GUID def7c5b8-0a45-42c8-86a5-bcc67d9a1cca</value>
 				<value>GUID 1812a0d5-3e5a-4dce-943d-c5107611b353</value>
@@ -12791,6 +12792,11 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">4</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIObjectInstance type="e">
 			<_id type="a">GUID 68c27f2c-d51c-405a-a4d8-752fd1e733a3</_id>
@@ -12914,6 +12920,10 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">3</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIObjectInstance type="e">
 			<_id type="a">GUID 262b958a-e866-4039-9598-9a9d285d40eb</_id>
@@ -12956,7 +12966,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<m_pParent type="s">GUID dfc5fbdc-8881-488a-addc-d668f43787f3</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">itsController:Reciever</m_str>
+					<m_str type="a">itsReciever:Reciever</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -13030,6 +13040,8 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">1</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGICompartment type="e">
 			<_id type="a">GUID e9a41c04-5739-44dd-82d2-bb5b8440ecb6</_id>
@@ -13037,6 +13049,12 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">5</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIObjectInstance type="e">
 			<_id type="a">GUID 81eae026-c615-47e9-92c7-4b7489f68e2a</_id>
@@ -13160,6 +13178,10 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">3</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIObjectInstance type="e">
 			<_id type="a">GUID 55266b98-b234-4c6d-9b27-c6f16b630db9</_id>
@@ -13524,6 +13546,9 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGICompartment type="e">
 			<_id type="a">GUID 67571196-f2eb-49ce-940b-e894464d78e2</_id>
@@ -13531,6 +13556,18 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">11</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIClass type="e">
 			<_id type="a">GUID 825fd048-b893-41ee-9b86-6bca19497d97</_id>
@@ -14141,6 +14178,538 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
+		<IPanelDiagram type="e">
+			<_id type="a">GUID 64b0a405-98a8-455f-8459-df6c707bfc9d</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">PushButton</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,100,50</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">0,0,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.Transparent</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">GUI</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.16.2026::11:59:49</_modifiedTime>
+			<_lastModifiedTime type="a">6.16.2026::11:59:49</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 963d0682-afe7-4d22-a662-184b4e672c46</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<AggregatesList type="e">
+				<value>GUID f4bf7427-c11b-4387-a490-bcd092aa3f2a</value>
+			</AggregatesList>
+		</IPanelDiagram>
+		<CGIClassChart type="e">
+			<_id type="a">GUID f4bf7427-c11b-4387-a490-bcd092aa3f2a</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPanelDiagram</_hm2Class>
+					<_hid type="a">GUID 64b0a405-98a8-455f-8459-df6c707bfc9d</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<elementList type="a">11</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID 97abf668-df92-4525-b459-9abc5c288498</value>
+				<value>GUID 3dadce46-4a5b-403b-979c-dae0019b8f3f</value>
+				<value>GUID 37f48e75-6513-4af3-8644-616160c318c5</value>
+				<value>GUID ff54418b-a8d6-4aba-9bf7-b4a188eb3c2d</value>
+				<value>GUID 8c02bc5d-d662-4e05-afaa-1af00fbc0df0</value>
+				<value>GUID 8816b6bc-831e-4ed4-bada-88c57b5f0a83</value>
+				<value>GUID 0162c7b2-92d6-4bc3-91d5-af15f7e002b0</value>
+				<value>GUID cf1b665f-38f7-405a-8111-384918a543a3</value>
+				<value>GUID cc0c5af4-d49e-4117-8e7d-2bebf7d40030</value>
+				<value>GUID f40cee05-d4d8-470b-bdee-04661496d373</value>
+				<value>GUID e2667306-debd-4df9-9349-c2e738aaef8c</value>
+			</AggregatesList>
+		</CGIClassChart>
+		<CGIBox type="e">
+			<_id type="a">GUID 97abf668-df92-4525-b459-9abc5c288498</_id>
+			<m_type type="a">215</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 963d0682-afe7-4d22-a662-184b4e672c46</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBox>
+		<CGIMFCCtrl type="e">
+			<_id type="a">GUID 3dadce46-4a5b-403b-979c-dae0019b8f3f</_id>
+			<m_type type="a">227</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">pushbutton_0</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.000971062 0 0 0.00043576 28 173.485 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">pushbutton_0</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+			<m_csButtonCaption type="a">Push</m_csButtonCaption>
+		</CGIMFCCtrl>
+		<CGIMFCCtrl type="e">
+			<_id type="a">GUID 37f48e75-6513-4af3-8644-616160c318c5</_id>
+			<m_type type="a">227</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">pushbutton_1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.000971062 0 0 0.00043576 28 265.485 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">pushbutton_1</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+			<m_csButtonCaption type="a">Push</m_csButtonCaption>
+		</CGIMFCCtrl>
+		<CGIActiveX type="e">
+			<_id type="a">GUID ff54418b-a8d6-4aba-9bf7-b4a188eb3c2d</_id>
+			<m_type type="a">217</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">gauge_0</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.0015537 0 0 0.00139443 199 108.553 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">gauge_0</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+		</CGIActiveX>
+		<CGIActiveX type="e">
+			<_id type="a">GUID 8c02bc5d-d662-4e05-afaa-1af00fbc0df0</_id>
+			<m_type type="a">219</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">led_0</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.000126238 0 0 0.000113298 189 297.126 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">led_0</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+		</CGIActiveX>
+		<CGIActiveX type="e">
+			<_id type="a">GUID 8816b6bc-831e-4ed4-bada-88c57b5f0a83</_id>
+			<m_type type="a">219</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">led_1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.000126238 0 0 0.000113298 270 297.126 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">led_1</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+		</CGIActiveX>
+		<CGIActiveX type="e">
+			<_id type="a">GUID 0162c7b2-92d6-4bc3-91d5-af15f7e002b0</_id>
+			<m_type type="a">219</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">led_2</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.000126238 0 0 0.000113298 340 297.126 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">led_2</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+		</CGIActiveX>
+		<CGIActiveX type="e">
+			<_id type="a">GUID cf1b665f-38f7-405a-8111-384918a543a3</_id>
+			<m_type type="a">221</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">digitaldisplay_0</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.00157312 0 0 0.000278887 378 125.311 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">digitaldisplay_0</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+		</CGIActiveX>
+		<CGIActiveX type="e">
+			<_id type="a">GUID cc0c5af4-d49e-4117-8e7d-2bebf7d40030</_id>
+			<m_type type="a">222</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">onoffswitch_0</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.000485531 0 0 0.00043576 593 149.485 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">onoffswitch_0</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+		</CGIActiveX>
+		<CGIActiveX type="e">
+			<_id type="a">GUID f40cee05-d4d8-470b-bdee-04661496d373</_id>
+			<m_type type="a">219</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">led_3</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.000126238 0 0 0.000113298 609 234.126 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">led_3</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+		</CGIActiveX>
+		<CGIActiveX type="e">
+			<_id type="a">GUID e2667306-debd-4df9-9349-c2e738aaef8c</_id>
+			<m_type type="a">219</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 97abf668-df92-4525-b459-9abc5c288498</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">led_4</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.000126238 0 0 0.000113298 608 274.126 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csName type="a">led_4</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_PartsArray>
+		</CGIActiveX>
 		<IClass type="e">
 			<_id type="a">GUID 76e7d19b-37f6-4984-9e16-6291034a88d1</_id>
 			<_myState type="a">40960</_myState>
@@ -14294,7 +14863,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID 489ab6b6-0a3b-4675-a011-a231496d15c3</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -14339,7 +14908,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGeneralization type="e">
 			<_id type="a">GUID 9f0a6715-d49f-4c99-9726-f3fb898b5f73</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -14365,7 +14934,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">6</_defNumber>
 			<_version type="a">6.9.2026::16:11:50</_version>
-			<_baseVersion type="a">1.1.1970::1:0:0</_baseVersion>
+			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID 7256d493-8641-4024-8371-a66702a05496</_diagram>
 			<AggregatesList type="e">
 				<value>GUID abf4f377-a86d-4cc1-8c26-81f7f77f57f4</value>
@@ -14411,7 +14980,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID 9df4e84e-4f96-4758-aa44-3a3b211c6d30</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">else</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -14440,7 +15009,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID 2ad32e3d-65f3-45ac-b912-8c0901d95b8a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">signal_ok</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -14459,7 +15028,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID b20713dd-340d-44c1-b8bf-a3b3dd91d256</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -14480,7 +15049,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID cf192a87-857b-4300-8c21-fc0ff2b79878</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -14511,7 +15080,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 1837aaa0-a2f4-4102-b5c3-031de6cccf42</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evActivate</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -14546,7 +15115,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID b1557343-5b83-4430-b25a-594dc0e4fd4c</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evActivate</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -14558,7 +15127,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID a2c1629b-a57f-4b62-afc3-4f8380240492</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">params-&gt;active</_body>
 		</IGuard>
 		<IDefaultDrvdTrans type="e">
@@ -14578,7 +15147,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID b26b86a1-eaac-4e92-8231-69f3169e7432</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -14609,7 +15178,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID fb34f76f-e134-448e-94e8-cde18b94333e</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evSignal</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -14660,7 +15229,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 				<_id type="a">GUID 6c041263-9d10-422b-9f54-7c91d406358f</_id>
 				<_myState type="a">4096</_myState>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">validate_signal()</_body>
 			</IAction>
 			</_entryAction>
@@ -15986,7 +16555,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID f1aa6559-6e61-4f2f-8c16-ee8f76aa2e06</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -16003,7 +16572,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID 7e5ea5e7-7e01-4132-8bad-52ee661e300b</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -16020,7 +16589,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID c6db9a64-36f1-4140-a312-fb64db43dbd8</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -16037,7 +16606,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID e4c6586a-b5b9-4b99-95e5-cb095c1fb4c0</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -16054,7 +16623,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID d80dd331-c1c7-48c6-aa39-6349fdafa270</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -16071,7 +16640,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID 65473395-1dd6-48a8-ab86-b9780ed7db80</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -16088,7 +16657,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID e5583140-993d-447c-ab73-ad640df59885</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -16172,7 +16741,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">24</_defNumber>
 			<_version type="a">6.9.2026::16:39:17</_version>
-			<_baseVersion type="a">1.1.1970::1:0:0</_baseVersion>
+			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID 7766bd3f-6699-407c-aa97-b11d696f411e</_diagram>
 			<AggregatesList type="e">
 				<value>GUID 53b44c4f-6d48-41f1-80cd-4f4b2c49cbf5</value>
@@ -16263,7 +16832,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 0d0ffdb0-36e1-4c01-83ee-e68001cfc4e9</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -16284,7 +16853,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID f6cc4fd2-311e-4968-9742-ab4da50fa298</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -16315,7 +16884,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID dd196d98-c768-491b-8d84-ac1dc2e0aa9d</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evSuccess</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -16350,7 +16919,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 7c2c9f4d-282b-4a8b-a406-cd5874db8bd3</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evTest</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -16385,7 +16954,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID a819037e-d8da-4e22-884c-a0e0dcfffa00</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evFAIL</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -16397,7 +16966,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IAction type="e">
 			<_id type="a">GUID 0ac8cfc3-749f-47c4-860b-69d009916468</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">itsReciever.GEN(evActivate(false));</_body>
 		</IAction>
 		<ITransition type="e">
@@ -16416,7 +16985,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 06c1bbc0-9a06-4b32-b39f-c00f191e2271</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -16437,7 +17006,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID f49d6d3e-a8a5-4ba2-8c87-64933ccbb7d4</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -16458,7 +17027,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 4c53a21f-152a-4029-8076-1a4da13592d4</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -16489,7 +17058,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID ef05273f-0a6c-4860-b399-640846c2afb6</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evFirmware</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -16524,7 +17093,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID fb82f670-7666-4d9b-9e05-eec138d8ce2a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evRegulate</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -16559,7 +17128,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 6e46d814-4aeb-4253-b8d6-a22172ae9fbc</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evError</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -16594,7 +17163,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ITimeout type="e">
 			<_id type="a">GUID 25833bcd-6399-4ab6-a612-6d5056106fdb</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">tm(2000)</_body>
 			<_time type="a">2000</_time>
 		</ITimeout>
@@ -16624,7 +17193,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 7d555871-5652-4ee1-8c7d-c9ef46c660bc</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evOK</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -16636,7 +17205,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IAction type="e">
 			<_id type="a">GUID 9a27e73a-0310-4f6f-aaf7-6817e8d6454b</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">itsReciever.GEN(evActivate(true));</_body>
 		</IAction>
 		<IDefaultDrvdTrans type="e">
@@ -16656,7 +17225,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 09028c68-b74e-4f9d-bd58-6c786ab81aaf</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -16677,7 +17246,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 3e69044d-9f0d-4a9c-9173-b44ef5c2d7ea</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -16708,7 +17277,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID d5ee3d08-eb07-45bc-a22e-6776b1c8f26d</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">else</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -16737,7 +17306,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID ecfef486-2712-43ef-bb1f-6b5190e42a99</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">!state_indication</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -16756,7 +17325,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID ab22e6d5-943f-4dac-ab7a-30086ae87870</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -16777,7 +17346,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 08b710d6-d45d-49f2-9041-90907ce1f690</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -16808,13 +17377,13 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID 98551927-8424-4086-b5e2-211e9917a3a1</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">state0 == OPENING</_body>
 		</IGuard>
 		<IAction type="e">
 			<_id type="a">GUID 85c2a04b-70ea-487d-b7cd-0722171153f6</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">set_state(CLOSING);</_body>
 		</IAction>
 		<ITransition type="e">
@@ -16843,13 +17412,13 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID eb2e0299-06c5-4746-886a-a3db4150c533</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">state0 == CLOSING</_body>
 		</IGuard>
 		<IAction type="e">
 			<_id type="a">GUID 37076b64-6952-477f-b14c-e8685b7c21d7</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">set_state(OPENING);</_body>
 		</IAction>
 		<ITransition type="e">
@@ -16878,7 +17447,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID 82d14d5b-127d-40fb-b048-6b83e1984675</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">else</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -16907,7 +17476,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 48fdd520-4b34-4af9-80a4-a013fd58c6e1</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evSignal</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -16942,7 +17511,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID 90549688-5fdd-4403-995a-a1dd6d643960</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">state != STOPPED</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -16971,7 +17540,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 9c0c0cff-e215-4251-ae0e-a139eea7b1ad</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evCollision</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -16996,7 +17565,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 17ab8718-67d4-4caf-ae6f-908ceadd08ef</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -17028,7 +17597,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IAction type="e">
 			<_id type="a">GUID dc578fe1-2f06-4b10-b254-fbaf17389f90</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">set_state(STOPPED)</_body>
 		</IAction>
 		<ITransition type="e">
@@ -17047,7 +17616,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 660c6d07-f47a-43d8-bcf7-36d44908e345</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -17078,7 +17647,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID e3ddfb64-6728-42ce-a599-b6d07ed955ec</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">else</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -17126,7 +17695,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 653b02d2-4fc2-4fe7-9dca-3fbc3cb6b91a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -17157,7 +17726,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID b4b6bace-8ab1-4500-af17-010fc08b937e</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">else</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -17186,7 +17755,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 4e322e02-451c-4cd8-b548-d23edf5494fd</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStep</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -17221,7 +17790,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID 4d8ee6eb-39f2-4837-8ca0-bc645ca65965</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">state == OPENING ? (position &lt; position_max) : (position &gt; position_min)</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -17240,7 +17809,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 7bc38271-fcf3-4a01-ab8d-ead93c40d0a7</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -17271,7 +17840,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID 9787e241-4b36-4632-8ac5-4fbb473a5d95</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">else</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -17300,7 +17869,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID 2eeef10d-0913-4ddf-8a43-f1171f70cadd</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">!state_indication</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -17319,7 +17888,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 7da575a7-25a4-441b-baf9-04ad7d8a2539</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -22755,7 +23324,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGeneralization type="e">
 			<_id type="a">GUID a6f835db-e479-4b4e-951d-19e2a6330346</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -22781,7 +23350,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">3</_defNumber>
 			<_version type="a">6.9.2026::16:7:46</_version>
-			<_baseVersion type="a">1.1.1970::1:0:0</_baseVersion>
+			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID 06985bde-6365-48d5-b31c-ac7aabef2b92</_diagram>
 			<AggregatesList type="e">
 				<value>GUID 238bf466-3dee-4aa4-a7aa-42a987c4ab1b</value>
@@ -22814,7 +23383,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 9f9cef41-a4f1-46ff-b5b9-46dc99963dae</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -22845,7 +23414,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID c6de2f67-9698-47fc-b735-802b3b28233f</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStart</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -22880,7 +23449,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 7f3ad42b-73a7-4f69-8f95-374392d13366</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStop</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -22905,7 +23474,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 1618bd10-f5fc-4a76-a1a9-d1c66f2093fd</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -22936,7 +23505,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 0a2e4770-c89c-4ff2-8ec2-a3f09845feb9</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evCheckCollision</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -22948,7 +23517,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGuard type="e">
 			<_id type="a">GUID d142f51d-1a52-4535-9aa5-82305bc00f40</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">check_collision()</_body>
 		</IGuard>
 		<ITransition type="e">
@@ -22977,7 +23546,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IAction type="e">
 			<_id type="a">GUID cc295369-f751-41ec-a987-c31afe903f82</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">reset_counters();</_body>
 		</IAction>
 		<IState type="e">
@@ -23982,7 +24551,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID 617e6df1-1b93-47ae-a0b9-2f9b3e5d1228</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -23998,7 +24567,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGeneralization type="e">
 			<_id type="a">GUID 56468fa2-dcf9-42a3-a771-c84d315633c6</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -24024,7 +24593,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">3</_defNumber>
 			<_version type="a">6.9.2026::16:9:55</_version>
-			<_baseVersion type="a">1.1.1970::1:0:0</_baseVersion>
+			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID 7ddf07d9-0c75-413a-b0e8-c66edd4555df</_diagram>
 			<AggregatesList type="e">
 				<value>GUID 980e93c1-4000-4c1d-a19a-a276d432e871</value>
@@ -24065,7 +24634,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 46a15911-c5de-43a8-b8fc-f2bd3c03ad4a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStep</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -24090,7 +24659,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 83f5cc08-0212-438c-95b9-f595d0b527d1</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -24121,7 +24690,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID b4e7e08f-ca59-434b-95fa-948f848f0a5d</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStart</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -24156,7 +24725,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID f2670725-e9d6-4e1f-a5e7-8df23d31366d</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStop</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -24182,7 +24751,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID 231048f0-d67d-41a8-8c2d-90e1813435db</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -24970,7 +25539,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_id type="a">GUID e1063c0d-07bc-43a6-8d3a-372f739a13dd</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -24986,7 +25555,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGeneralization type="e">
 			<_id type="a">GUID e24d5c25-922a-41dc-b838-8c4699b0065c</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -25012,7 +25581,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">3</_defNumber>
 			<_version type="a">6.9.2026::16:3:28</_version>
-			<_baseVersion type="a">1.1.1970::1:0:0</_baseVersion>
+			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID 03d04705-0a0b-4bbf-9127-afd7bd5fd1c3</_diagram>
 			<AggregatesList type="e">
 				<value>GUID 49278a3d-222e-4c46-9a42-7e011542debe</value>
@@ -25053,7 +25622,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID f9bfd019-a835-4cf9-a225-998ea4b057c9</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStart</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -25065,7 +25634,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IAction type="e">
 			<_id type="a">GUID 182aa4c3-4f74-4d27-ac83-e7344ce90388</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">direction = params -&gt; state;</_body>
 		</IAction>
 		<ITransition type="e">
@@ -25094,7 +25663,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 398c4659-e66a-4a66-8514-8049b2807d32</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStop</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -25120,7 +25689,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID ccdd7a6e-3c31-47ed-b948-9e38c87219c1</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -25151,10 +25720,8 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ITimeout type="e">
 			<_id type="a">GUID b3b92fce-8ac2-47d9-880e-dbe9aa6c3236</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
-			<_body type="a">tm(period)std::cout &lt;&lt; &quot;\nDrive: period=&quot; &lt;&lt; period%0D
-		&lt;&lt;&quot;,velocity=&quot; &lt;&lt; velcoity%0D
-		&lt;&lt;&quot;,dir=&quot; &lt;&lt; direction;</_body>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_body type="a">tm(period)</_body>
 			<_time type="a">period</_time>
 		</ITimeout>
 		<ITransition type="e">
@@ -25173,7 +25740,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<ILabel type="e">
 			<_id type="a">GUID dfc9615e-68e5-48f8-955e-f2a5f9615d41</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -26078,7 +26645,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGeneralization type="e">
 			<_id type="a">GUID aeef4abc-57fc-4d3b-ba88-9815bcea53f2</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -26114,7 +26681,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 		<IGeneralization type="e">
 			<_id type="a">GUID 449b071e-054b-44b5-832f-1bd2440801eb</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -26246,7 +26813,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_myState type="a">8192</_myState>
 			<_name type="a">evTest</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -26258,7 +26825,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_myState type="a">8192</_myState>
 			<_name type="a">evFAIL</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -26270,7 +26837,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_myState type="a">8192</_myState>
 			<_name type="a">evFirmware</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -26282,7 +26849,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_myState type="a">8192</_myState>
 			<_name type="a">evRegulate</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -26294,7 +26861,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_myState type="a">8192</_myState>
 			<_name type="a">evError</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -26318,7 +26885,7 @@ Testing involves sending the 'is_ok()' message\par%0D
 			<_myState type="a">8192</_myState>
 			<_name type="a">evOK</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
