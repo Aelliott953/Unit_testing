@@ -1,0 +1,7 @@
+# Qt build artefacts
+*.o
+moc_*.cpp
+moc_predefs.h
+.qmake.stash
+Makefile
+QtConsoleApp
