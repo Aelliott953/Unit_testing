@@ -1,5 +1,0 @@
-if(EXISTS "C:/Users/alex/OneDrive/Documents/VS_code_projects/Unit_testing/build/Channel_test[1]_tests.cmake")
-  include("C:/Users/alex/OneDrive/Documents/VS_code_projects/Unit_testing/build/Channel_test[1]_tests.cmake")
-else()
-  add_test(Channel_test_NOT_BUILT Channel_test_NOT_BUILT)
-endif()
